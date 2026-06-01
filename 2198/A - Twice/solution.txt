@@ -1,0 +1,20 @@
+import java.util.Scanner
+ 
+fun main() {
+    val sc = Scanner(System.`in`)
+    var n = sc.nextInt()
+ 
+    while (n-- > 0) {
+        val a = sc.nextInt()
+        val map = HashMap<Int, Int>()
+        var count = 0
+ 
+        repeat(a) {
+            val x = sc.nextInt()
+            map[x] = map.getOrDefault(x, 0) + 1
+            if (map[x]!! % 2 == 0) count++
+        }
+ 
+        println(count)
+    }
+}

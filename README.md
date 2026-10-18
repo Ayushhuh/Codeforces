@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 1 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (3)
+- [greedy](#greedy) (1)
+- [math](#math) (1)
 
 ---
 
@@ -23,6 +25,18 @@
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/Ayushhuh/Codeforces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [Java 21](https://github.com/Ayushhuh/Codeforces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | Unrated | [Java 21](https://github.com/Ayushhuh/Codeforces/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [Java 21](https://github.com/Ayushhuh/Codeforces/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [Java 21](https://github.com/Ayushhuh/Codeforces/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.java) |
 
 ---
 
